@@ -11,7 +11,7 @@ public class Ejecutor {
         Hospital h3 = new Hospital("San Luis", 40000, 356000.85);
         
 
-       Hospital[] lista = {h1, h2,h3};
+       Hospital[] lista = {h1, h2, h3};
 
         EscrituraArchivoSecuencial archivo = new
         EscrituraArchivoSecuencial(nombreArchivo);
